@@ -1,0 +1,16 @@
+Various Known Quirks & Bugs
+
+Irritating Maze - can't pull up Unibios In Game Menu with ABC+Start
+only with Start+Select (possibly because IM only has two buttons?)
+
+King of the Monsters - If PICKnMIX is active and the user advances to 
+KotM while the board has hard drip #7 ON (Free Play), it will not 
+automatically advance until the user selects a different game.
+
+Real Bout 2 - shows the Giga Power splash screen, no other titles
+show the Neo Geo splash screen when cycling attract modes
+
+Thrash Rally - takes about two seconds longer than any other title to load in
+
+Zupapa - Unibios In Game Menu is visually corrupted.  It still works 
+and the Cheat Database (first menu option) is still accessible and works.
