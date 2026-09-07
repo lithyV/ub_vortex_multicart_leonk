@@ -4,7 +4,7 @@ Irritating Maze - can't pull up Unibios In Game Menu with ABC+Start
 only with Start+Select (possibly because IM only has two buttons?)
 
 King of the Monsters - If PICKnMIX is active and the user advances to 
-KotM while the board has hard drip #7 ON (Free Play), it will not 
+KotM while the board has hard dip #7 ON (Free Play), it will not 
 automatically advance until the user selects a different game.
 
 Real Bout 2 - shows the Giga Power splash screen, no other titles
